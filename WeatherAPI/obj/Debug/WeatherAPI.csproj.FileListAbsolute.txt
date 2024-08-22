@@ -1,0 +1,10 @@
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.csproj.AssemblyReference.cache
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.Properties.Resources.resources
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.WeatherAPIForm.resources
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.csproj.GenerateResource.cache
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\__Students\Tulsyan\Weather\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+C:\__Students\Tulsyan\Weather\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\__Students\Tulsyan\Weather\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\__Students\Tulsyan\Weather\WeatherAPI\obj\Debug\WeatherAPI.pdb
